@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+nav a, nav button {
+  margin-right: 15px;
+}
+
+.grid {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  width: 200px;
+}
+
+.form-container {
+  max-width: 300px;
+  margin: 50px auto;
+  text-align: center;
+}
